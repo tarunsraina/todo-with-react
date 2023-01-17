@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.HeaderTitle {
+  background-color: #282c34;
+  color : lightsalmon;
+}
+
+
+.nameFooter {
+  color : lightcoral
+}
